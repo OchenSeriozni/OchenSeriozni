@@ -8,8 +8,8 @@
 - 🔭 Open to work, intership, mostly remotely.
 
 ### Connect with me:
-
-[<img align="left" alt="https://t.me/KosarevD" | TG" width="22px" src="https://www.i-tt.ru/application/files/3015/6526/1057/Telegram-2.png" />][TG]
+- Telegram: https://t.me/KosarevD
+- Email: kosarev2055@gmail.com
 
 <br />
 
