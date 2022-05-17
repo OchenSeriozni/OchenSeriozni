@@ -3,13 +3,13 @@
 ![](https://komarev.com/ghpvc/?username=OchenSeriozni)
 
 ## Hi, I’m Danila 
-👀 I am interested in web development. I also like rock music, play basketball, ride a bike, good memes :)
-🌱 I’m currently learning ReactJS and close stuff;
-🔭 Open to work, intership, mostly remotely.
+- 👀 I am interested in web development. I also like rock music, play basketball, ride a bike, good memes :)
+- 🌱 I’m currently learning ReactJS and close stuff;
+- 🔭 Open to work, intership, mostly remotely.
 
 ### Connect with me:
 
-[<img align="left" alt="OchenSeriozni | VK" width="22px" src="https://cdn.icon-icons.com/icons2/555/PNG/512/telegram_icon-icons.com_53603.png" />][TG]
+[<img align="left" alt="https://t.me/KosarevD" | TG" width="22px" src="https://www.i-tt.ru/application/files/3015/6526/1057/Telegram-2.png" />][TG]
 
 <br />
 
