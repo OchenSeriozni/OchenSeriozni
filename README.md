@@ -2,7 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=OchenSeriozni)
 
-## Hi, I’m Danila 
 - 👀 I am interested in web development. I also like rock music, play basketball, ride a bike, good memes :)
 - 🌱 I’m currently learning ReactJS and close stuff;
 - 🔭 Open to work, intership, mostly remotely.
